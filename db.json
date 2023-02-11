@@ -1,5 +1,5 @@
 {
-  "data": [
+  "blogs": [
     {
       "id": 1,
       "username": "coreyschafer",
@@ -14,4 +14,5 @@
       ]
     }
   ]
+ 
 }
